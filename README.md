@@ -1,2 +1,2 @@
-# heart_disease
-The project involves training a machine learning model to predict whether someone is suffering from a heart disease with 87% accuracy.
+Heart-Disease-Prediction
+A project that predicts whether a person is suffering from heart disease or not.
